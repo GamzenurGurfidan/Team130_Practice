@@ -1,4 +1,4 @@
-package sessionPractice;
+package day05;
 
 public class P16_ArrayList {
     //2 Boyutlu bir Multidimensional array i input kabul edip, arraydeki tüm elemanları bir

@@ -1,4 +1,4 @@
-package sessionPractice;
+package day04;
 
 import java.time.LocalDateTime;
 import java.util.Locale;

@@ -1,8 +1,8 @@
-package sessionPractice;
+package day03;
 
 import java.util.Arrays;
 
-public class day5P01_ArraydekiSayilarinToplami {
+public class P01_ArraydekiSayilarinToplami {
 
     // Create an array of 5 floats and calculate their sum.
 

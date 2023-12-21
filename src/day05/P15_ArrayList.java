@@ -1,4 +1,4 @@
-package sessionPractice;
+package day05;
 
 import java.util.ArrayList;
 import java.util.List;

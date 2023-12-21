@@ -1,4 +1,4 @@
-package sessionPractice;
+package day05;
 
 public class P18_Constructor {
     // musterinin bilgilerini atayacagımız variablelari olusturalım

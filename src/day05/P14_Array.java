@@ -1,4 +1,4 @@
-package sessionPractice;
+package day05;
 
 public class P14_Array {
     /*

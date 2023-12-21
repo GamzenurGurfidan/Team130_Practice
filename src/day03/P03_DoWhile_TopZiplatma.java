@@ -1,6 +1,6 @@
-package sessionPractice;
+package day03;
 
-public class day5P03_DoWhile_TopZiplatma {
+public class P03_DoWhile_TopZiplatma {
 
     // Bir top belirli yükseklikten atılmaktadır.
     // Atıldıktan sonra, atıldığı yüksekliğin 3/4 u kadar yerden yukarı doğru zıplamaktadır
