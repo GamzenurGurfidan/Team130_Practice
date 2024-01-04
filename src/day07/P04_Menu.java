@@ -17,7 +17,7 @@ public class P04_Menu {
 
     void menu(){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("====================================\n" +
+        System.out.print("====================================\n" +
                            " ÖĞRENCİ VE ÖĞRETMEN YÖNETİM PANELİ\n" +
                            "====================================\n" +
                            "\t 1- ÖĞRENCİ İŞLEMLERİ\n" +
@@ -41,6 +41,7 @@ public class P04_Menu {
                 break;
             case 'Q':
                 System.out.println("çıkış yapılıyor...");
+                System.exit(0);
                 break;
             default:
                 System.out.println("Hatalı giris yaptiniz tekrar deneyiniz!\n");

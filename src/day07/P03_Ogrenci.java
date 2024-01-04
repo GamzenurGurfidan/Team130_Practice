@@ -34,8 +34,8 @@ public class P03_Ogrenci extends P01_Kisi {
 
     @Override
     public String toString() {
-        return "Ogrenci " + super.toString() +
-                "number: " + number +
-                ", sinif: " + sinif ;
+        return "\nOgrenci " + super.toString() +
+                "Numara: " + number + "\n" +
+                "Sinif: " + sinif + "\n";
     }
 }

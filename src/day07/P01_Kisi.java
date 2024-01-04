@@ -55,10 +55,9 @@ public class P01_Kisi {
 
     @Override
     public String toString() {
-        return "Kisi -->" +
-                "firstName: " + firstName + '\'' +
-                ", surName: " + surName + '\'' +
-                ", kimlikNo: " + kimlikNo + '\'' +
-                ", age: " + age ;
+        return  "Adı: " + firstName + '\n' +
+                "Soyadı: " + surName + '\n' +
+                "TCKN: " + kimlikNo + '\n' +
+                "Yas: " + age + "\n" ;
     }
 }
